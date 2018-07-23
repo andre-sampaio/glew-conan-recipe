@@ -8,7 +8,7 @@ This package uses an unmodified source of GLEW version 2.1.0. You can download i
 While this recipe is under MIT, GLEW is under another license. You can check it over [here][glew-license-this] or [here][glew-license-glew-github].
 
 ## Disclaimer
-This is not an oficial recipe! It is just something I built on my free time to use on some personal projects.
+Neither I nor this repository is in any way associated with [GLEW][glew-website]! This is just something I built on my free time to use on some personal projects.
 
 Feel free to use this recipe yourself, though!
 
