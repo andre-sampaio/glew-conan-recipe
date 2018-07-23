@@ -14,6 +14,6 @@ Feel free to use this recipe yourself, though!
 
 Note: Only tested on Windows, consuming from a Visual Studio 2017 project!
 
-[glew-license-this]: src/LICENSE.txt
+[glew-license-this]: glew-2.1.0/LICENSE.txt
 [glew-license-glew-github]: https://github.com/nigels-com/glew/blob/master/LICENSE.txt
 [glew-website]: http://glew.sourceforge.net/
